@@ -7,7 +7,7 @@ const skills = [
   {
     id: 2,
     img: "/portfolio/images/unity2.png",
-    percent: "50%",
+    percent: "85%",
   },
   {
     id: 3,
@@ -22,13 +22,13 @@ const skills = [
 
   {
     id: 5,
-    img: "/portfolio/images/rabbitmq.png",
+    img: "/portfolio/images/Rabbitmq.png",
     percent: "60%",
   },
   {
     id: 6,
     img: "/portfolio/images/git.png",
-    percent: "60%",
+    percent: "100%",
   },
   {
     id: 7,

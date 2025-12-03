@@ -1,11 +1,11 @@
 const projects = [
   {
     id: 1,
-    img: "/images/cshap.png",
+    img: "/portfolio/images/cshap.png",
     percent: "85%",
     desc: 'I collaborated with some colleague of mine to build this Website and its functionalities',
     title: 'Link To My Project',
-    technologies: ['/images/unity2.png', '/images/sql.png', '/images/git.png',],
+    technologies: ['/portfolio/images/unity2.png', '/portfolio/images/sql.png', '/portfolio/images/git.png',],
     link: "https://github.com/ChekwubeEze"
   },
   // {
