@@ -1,38 +1,38 @@
 const skills = [
   {
     id: 1,
-    img: "/images/cshap.png",
+    img: "/portfolio/images/cshap.png",
     percent: "99%",
   },
   {
     id: 2,
-    img: "/images/unity2.png",
+    img: "/portfolio/images/unity2.png",
     percent: "50%",
   },
   {
     id: 3,
-    img: "/images/sql.png",
+    img: "/portfolio/images/sql.png",
     percent: "95%",
   },
   {
     id: 4,
-    img: "/images/css.png",
+    img: "/portfolio/images/css.png",
     percent: "70%",
   },
 
   {
     id: 5,
-    img: "/images/rabbitmq.png",
+    img: "/portfolio/images/rabbitmq.png",
     percent: "60%",
   },
   {
     id: 6,
-    img: "/images/git.png",
+    img: "/portfolio/images/git.png",
     percent: "60%",
   },
   {
     id: 7,
-    img: "/images/docker.png",
+    img: "/portfolio/images/docker.png",
     percent: "80%",
   },
 ];
