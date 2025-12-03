@@ -16,7 +16,7 @@ const skills = [
   },
   {
     id: 4,
-    img: "/portfolio/images/css.png",
+    img: "/portfolio/images/python.png",
     percent: "70%",
   },
 
@@ -33,6 +33,11 @@ const skills = [
   {
     id: 7,
     img: "/portfolio/images/docker.png",
+    percent: "80%",
+  },
+  {
+    id: 8,
+    img: "/portfolio/images/css.jpg",
     percent: "80%",
   },
 ];
