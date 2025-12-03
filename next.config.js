@@ -11,12 +11,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // If your repo is NOT your-username.github.io (project page),
-  // e.g. https://your-username.github.io/portfolio
-  // then uncomment and set basePath and assetPrefix:
-  //
-  // basePath: '/portfolio',
-  // assetPrefix: '/portfolio/',
+  basePath: '/portfolio',
+  assetPrefix: '/portfolio/',
 };
 
 module.exports = nextConfig;
+
