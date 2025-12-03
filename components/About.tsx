@@ -49,7 +49,7 @@ const About = (props: Props) => {
           <br>
 
           </br>
-          Driven by curiosity and a commitment to continuous improvement, I aim to build games that are both technically strong and emotionally impactful—experiences that players enjoy, remember, and return to.
+          Driven by curiosity and a commitment to continuous improvement, I aim to build games that are both technically strong and emotionally impactful experiences that players enjoy, remember, and return to.
         </p>
       </div>
     </div>
