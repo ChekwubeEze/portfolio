@@ -32,24 +32,21 @@ const About = (props: Props) => {
           About me
         </h4>
         <p className="text-base">
-          I&apos;m a software engineer with over six years of professional experience designing, building, and maintaining scalable backend systems, microservices, and cloud-based applications. I am currently studying Game Development at Jyväskylä University of Applied Sciences, Finland, where I continue to strengthen my technical skills while expanding into interactive systems and real-time application development.
+          I&apos;m a software engineer with over six years of professional experience in backend development, microservices, and cloud-based systems. I am currently studying Game Development at Jyväskylä University of Applied Sciences, Finland, where I continue to strengthen my technical foundation while expanding my expertise in real-time and interactive systems.
 
           <br>
 
           </br>
-          My professional background spans the FinTech, AI, and energy sectors, where I have contributed to enterprise-level solutions using technologies such as C#, ASP.NET Core, Python, JavaScript, Azure, Docker, Kubernetes, SQL, and modern CI/CD pipelines. I have worked in Agile environments, collaborated closely with cross-functional teams, rebuilt legacy systems, and delivered reliable, high-performance software used in production environments.
+          I have worked across the FinTech, AI, and energy sectors, building and maintaining enterprise-level applications using C#, ASP.NET Core, Python, JavaScript, Azure, Docker, Kubernetes, and SQL. These roles involved rebuilding legacy systems, optimizing performance, collaborating in Agile teams, and delivering reliable production software.
           <br>
 
           </br>
-          In addition to my industry experience, I bring a strong systems-thinking mindset from game development. Working with Unity, C#, and C++ has further sharpened my understanding of performance optimization, real-time processing, clean architecture, and maintainable code—skills that translate directly to building robust software systems. I have developed multiple games and published one on itch.io, applying the same engineering discipline I use in professional software projects.
+          Alongside my industry experience, I apply strong engineering principles through game development, working with Unity, C#, and C++. I have developed multiple games and published one on itch.io, bringing a performance-focused and structured approach to gameplay systems and technical architecture.
           <br>
 
           </br>
-          I&apos;m passionate about writing clean, testable, and scalable code, solving complex problems, and continuously improving both systems and processes. Whether working on backend services, cloud infrastructure, or interactive applications, I focus on delivering solutions that are efficient, reliable, and aligned with business goals.
-          <br>
+          I&apos;m passionate about writing clean, scalable code, solving complex problems, and continuously improving systems. I am seeking opportunities where I can contribute as a software engineer within collaborative, high-performing teams.
 
-          </br>
-          Driven by curiosity, adaptability, and a strong work ethic, I am seeking opportunities in Finland where I can contribute as a software engineer, grow within a collaborative team, and help build impactful, high-quality software.
         </p>
       </div>
     </div>
